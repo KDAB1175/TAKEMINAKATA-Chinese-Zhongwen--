@@ -1,1 +1,1 @@
-# TAKEMINAKATA-Chinese-Zhongwen--
+# TAKEMINAKATA-Chinese-Zhongwen-中文
