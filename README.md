@@ -1,1 +1,5 @@
-# TAKEMINAKATA-Chinese-Zhongwen-中文
+# 建御雷-中文
+
+...是一款开源的智能空气质量测量仪。
+
+在这个 README.md 中，我将发布未来的更新进展和组装使用指南。
